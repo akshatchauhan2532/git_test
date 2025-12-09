@@ -1,6 +1,12 @@
 four
 4444
 hello i m checking a file 
+this is one more advanced concept which we will test S
+
+thi sis ntge new work git stsh
+
+git status need to perform 
 
 
-this is sometjinhd nee 
+
+lets do something neew
